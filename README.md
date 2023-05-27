@@ -5,3 +5,8 @@ Customer Churn Predication using Machine Learning
    I) Decision tree
    II) Random Forest Tree
    III) Support Vector Machine (SVM)
+3- Libraries used in this project
+   I) Pandas
+   II) Matplot 
+   III) Seaborn
+   IV) Sklearn
